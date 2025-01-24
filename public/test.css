@@ -1,0 +1,9 @@
+#new-chat-button {
+  display: none;
+}
+
+a[href*='https://github.com/Chainlit/chainlit'] {
+  visibility: hidden;
+}
+
+.watermark a p, .watermark a svg{ display: none; }
